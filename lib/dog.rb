@@ -1,10 +1,10 @@
 # Your code goes here!
-class Dog 
+class Dog
   def name=(name)
     @name = name
   end
 
-  def name 
+  def name
     @name
   end
 
@@ -12,7 +12,7 @@ class Dog
     @bark = bark
   end
 
-  def bark 
+  def bark
     @bark
   end
 end
